@@ -1,0 +1,3 @@
+User-agent: *   
+Allow: /   
+Sitemap: https://himamineralwater.in/sitemap.xml
